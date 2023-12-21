@@ -1,0 +1,16 @@
+.amount-card-item {
+  width: 50%;
+  list-style: none;
+  padding: 10px;
+}
+
+.Amount-button {
+  border: solid 2px white;
+  color: white;
+  width: 100%;
+  font-weight: 600;
+  font-size: 17px;
+  background-color: rgba(255, 255, 255, 0.247);
+  padding: 8px;
+  border-radius: 6px;
+}
